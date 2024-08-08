@@ -34,7 +34,7 @@ Before installing Snort, ensure you have the following:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/vijaykumargowdakk/Snort-IDS-System.git
+git clone https://github.com/DhanushreeMS/Snort-IDS-System.git
 cd Snort-IDS-System
 ```
 
@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or additional support, please contact [Your Name] at [Your Email Address].
+For questions or additional support, please contact [Dhanushree M S] at [msdhanushree116@gmail.com].
 
 ---
 
